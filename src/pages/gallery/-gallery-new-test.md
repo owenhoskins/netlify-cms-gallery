@@ -2,11 +2,12 @@
 title: New test
 date: '2018-09-21 11:38am'
 portfolios:
-  - list:
-      - image:
-          - 'https://ucarecdn.com/d63db4e7-5031-405e-a8a8-c75465d201bf~3/nth/0/'
-          - 'https://ucarecdn.com/d63db4e7-5031-405e-a8a8-c75465d201bf~3/nth/1/'
-          - 'https://ucarecdn.com/d63db4e7-5031-405e-a8a8-c75465d201bf~3/nth/2/'
-    title: Editorial
+  - title: Editorial
+    image:
+      - 'https://ucarecdn.com/6e25fc55-eb34-41a5-99bd-28867fd5fc52~5/nth/0/'
+      - 'https://ucarecdn.com/6e25fc55-eb34-41a5-99bd-28867fd5fc52~5/nth/1/'
+      - 'https://ucarecdn.com/6e25fc55-eb34-41a5-99bd-28867fd5fc52~5/nth/2/'
+      - 'https://ucarecdn.com/6e25fc55-eb34-41a5-99bd-28867fd5fc52~5/nth/3/'
+      - 'https://ucarecdn.com/6e25fc55-eb34-41a5-99bd-28867fd5fc52~5/nth/4/'
 ---
 Yes.
