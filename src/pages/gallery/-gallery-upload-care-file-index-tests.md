@@ -1,12 +1,11 @@
 ---
 title: upload care file index tests
 date: '2018-10-19 07:37pm'
-image: 'https://ucarecdn.com/34fcd614-a44a-4500-8033-f84fd3bfe297/'
+image: 'https://ucarecdn.com/73773277-5c28-41ae-8524-8f4e5cb129ca/'
 portfolios:
   - images:
-      - 'https://ucarecdn.com/ee5e51d3-9d46-4a83-92b9-ed07f2b4525f~3/nth/0/'
-      - 'https://ucarecdn.com/ee5e51d3-9d46-4a83-92b9-ed07f2b4525f~3/nth/1/'
-      - 'https://ucarecdn.com/ee5e51d3-9d46-4a83-92b9-ed07f2b4525f~3/nth/2/'
+      - 'https://ucarecdn.com/be87f3a2-62ed-4bf7-a4a6-cba0f1bf76c3~2/nth/0/'
+      - 'https://ucarecdn.com/be87f3a2-62ed-4bf7-a4a6-cba0f1bf76c3~2/nth/1/'
     title: test
 ---
 test
