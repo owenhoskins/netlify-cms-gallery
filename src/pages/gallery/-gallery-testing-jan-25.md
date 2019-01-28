@@ -1,5 +1,5 @@
 ---
-title: testing jan 25 ...
+title: testing jan 25 ......
 image:
   - 'https://ucarecdn.com/01cdf4d3-1e4a-49a9-928a-2fd68fcae69a/'
 portfolios:
