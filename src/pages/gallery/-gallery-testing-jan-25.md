@@ -26,6 +26,8 @@ portfolios:
       - 'https://ucarecdn.com/f29cccb8-982d-4fe5-818f-e06512c05b2e/'
       - 'https://ucarecdn.com/51432305-6750-4ed6-9d7e-c7e1fa2908a8/'
       - 'https://ucarecdn.com/0d2d9df2-190b-4bde-a444-bdb5d38ecc89/'
+      - 'https://ucarecdn.com/924163db-3699-4452-9b54-fa8eb9fcc2a0/'
+      - 'https://ucarecdn.com/15685e07-e5a0-4954-b488-a4b53ec5bea9/'
     title: new stuff
 ---
 
