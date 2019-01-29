@@ -1,7 +1,8 @@
 ---
 title: testing jan 25
 image:
-  - 'https://ucarecdn.com/d92aec41-bd3b-4f60-aa52-ca46ae0d22b1/'
+  - image: 'https://ucarecdn.com/e0a8de0a-b1ac-443f-b24b-804ab853ad76/'
+    ratio: 1.2726347914547305
 portfolios:
   - images:
       - 'https://ucarecdn.com/4bb39886-5cca-456c-80f9-d72febeb001d/'
