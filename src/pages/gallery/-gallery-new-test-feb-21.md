@@ -39,7 +39,6 @@ portfolios:
     title: gallery 1
 videos:
   - gallery:
-    title: video gallery 1
       - poster: 'https://i.vimeocdn.com/video/728026513_1280x720.jpg?r=pad'
         ratio: 56.25%
         title: Givenchy L'Interdit featuring Rooney Mara
@@ -108,5 +107,6 @@ videos:
         ratio: 56.25%
         title: Capital One Venture featuring Jennifer Garner
         url: 255787816
+    title: video gallery 1
 ---
 
