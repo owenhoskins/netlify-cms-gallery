@@ -1,9 +1,9 @@
 ---
 title: new test feb 21
 image:
-  - aspectRatio: 0.7898148148148149
-    name: 2018-12-17_SKT_SWANSONGPROMO_01.jpg
-    url: 'https://ucarecdn.com/7183a201-e709-480e-9bd3-b57565a76f54/'
+  - aspectRatio: 0.8125937031484258
+    name: 1812_Office Magazine Nina_Reto_Schmid_10.jpg
+    url: 'https://ucarecdn.com/60d90fb2-6e97-431d-9b85-fc5c5d481d28/'
 portfolios:
   - columns: 4
     gallery:
