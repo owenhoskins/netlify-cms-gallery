@@ -1,9 +1,9 @@
 ---
 title: new test feb 21
 image:
-  - aspectRatio: 0.8125937031484258
-    name: 1812_Office Magazine Nina_Reto_Schmid_10.jpg
-    url: 'https://ucarecdn.com/60d90fb2-6e97-431d-9b85-fc5c5d481d28/'
+  - aspectRatio: 0.7342342342342343
+    name: 27_201510_VOGUETW_BPERRY_ACL_09.jpg
+    url: 'https://ucarecdn.com/3db5daca-5e50-44a8-931f-ec4eaaef8160/'
 portfolios:
   - columns: 4
     gallery:
