@@ -1,9 +1,9 @@
 ---
 title: new test feb 21
 image:
-  - aspectRatio: 1.2305
-    name: 1712_Garage American Designers_Reto_Schmid_01.jpg
-    url: 'https://ucarecdn.com/02981fcd-67bc-4677-8bc0-1b707184bb02/'
+  - aspectRatio: 0.66675
+    name: 2015-09_LPO_TEST_08.jpg
+    url: 'https://ucarecdn.com/329b5931-0b79-4cf8-9780-ee65b4ec767d/'
 portfolios:
   - columns: 4
     gallery:
