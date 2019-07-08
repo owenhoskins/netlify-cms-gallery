@@ -1,9 +1,9 @@
 ---
 title: new test feb 21
 image:
-  - aspectRatio: 0.66675
-    name: 2015-09_LPO_TEST_08.jpg
-    url: 'https://ucarecdn.com/329b5931-0b79-4cf8-9780-ee65b4ec767d/'
+  - aspectRatio: 0.7273076923076923
+    name: 2015-01_JKO_OUT_01.jpg
+    url: 'https://ucarecdn.com/bd8b1102-52ea-469f-9582-a9b32749b364/'
 portfolios:
   - columns: 4
     gallery:
